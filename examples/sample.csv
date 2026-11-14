@@ -1,0 +1,9 @@
+﻿RecordID,LineKey,ItemCount,Description,Quantity,UnitPrice
+G-001,,3,SAMPLE_A part,2,150
+G-001,,3,Generic item,1,80
+G-001,,3,SAMPLE_B part,4,60
+G-002,,2,Generic item,1,300
+G-002,,2,SAMPLE_A part,2,400
+G-003,,2,Generic item,1,50
+G-003,,2,Generic item,3,20
+G-004,,1,SAMPLE_B part,5,260

@@ -1,0 +1,12 @@
+* text=auto
+
+# VBA 模块在 Windows 编辑器中导入，统一 CRLF
+*.bas text eol=crlf
+
+# 文档与配置统一 LF
+*.md text eol=lf
+LICENSE text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+*.csv text eol=crlf
