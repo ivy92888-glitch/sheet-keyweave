@@ -1,0 +1,18 @@
+# 本地中间产物请保存在仓库目录之外；
+# 以下规则防止原始素材与临时文件被误加入
+*.xlsm
+*.xlsb
+*.xls
+*.docx
+~$*
+*.tmp
+*.imgtmp
+*.bak
+
+# 系统与编辑器
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
